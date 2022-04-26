@@ -1,0 +1,4 @@
+# The python compiled files
+*.py[cod]
+# The directory containing the virtual env
+venv/
